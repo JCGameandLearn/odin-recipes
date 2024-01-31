@@ -10,11 +10,32 @@
     font-weight: bold;
 }
 
-.page_title {
-    background-color: brown;
-    color: white;
+.title {
+    background-color: tan;
+    color: brown;
     font-family: 'Times New Roman', Times, serif;
     font-size: 36px;
     font-weight: bold;
 
+}
+
+.title.page {
+    background-color: brown;
+    color: white;
+}
+
+.title.desc {
+    font-size: 24px;
+
+}
+
+.title.category {
+    font-size: 18px;
+
+}
+
+.description {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    
 }
