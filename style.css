@@ -10,6 +10,11 @@
     font-weight: bold;
 }
 
+.home_img {
+    height: 200px;
+    width: auto;
+}
+
 .title {
     background-color: tan;
     color: brown;
